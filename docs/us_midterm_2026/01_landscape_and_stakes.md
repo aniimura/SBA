@@ -1,6 +1,7 @@
 # 01 — Landscape and Stakes
 
-*As of analyst knowledge (Jan 2026); verify live before relying on specifics.*
+*Structural facts; perishable figures refreshed via web search on 2026-05-29
+(see files 02-04 for `[LIVE]` data). Verify before relying on specifics.*
 
 ## 1. Starting conditions (the board on which 2026 is played)
 

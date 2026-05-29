@@ -14,8 +14,9 @@ reliability, key assumptions, alternative hypotheses, confidence calibration).
 | **[LIVE] Presidential approval** (≈ −19.6 net) | High | **2026-05-29** | Multi-aggregator agreement |
 | **[LIVE] Generic ballot** (D+6 to D+7) | High | **2026-05-29** | 3 aggregators within 1 pt |
 | **[LIVE] Candidate recruitment** (Brown OH, Peltola AK) | High | **2026-05-29** | Reported as confirmed runs |
-| **[LIVE] Redistricting net effect** (~+10 R) | Medium | **2026-05-29** | Estimate; maps in litigation |
-| Seat-by-seat ratings | Medium-High | Mixed | Some live, some Jan-2026 |
+| **[LIVE] Redistricting net effect** (~+10 R, ~−5 D seats) | Medium | **2026-05-29** | Sabato model; maps still in litigation |
+| **[LIVE] Prediction markets** (Kalshi/Polymarket) | Medium | **2026-05-29** | Useful cross-check, not ground truth |
+| **[LIVE] Seat-by-seat ratings** (Cook/Sabato/IE) | High | **2026-05-29** | NC→Lean D, TX→Lean R, GA/MI toss-up |
 
 **Improvement over first draft:** the most perishable inputs (approval, generic
 ballot, key recruitments) were **refreshed live on 2026-05-29 via `WebSearch`**,
@@ -59,8 +60,8 @@ versus the January baseline; H2 persists **only because of redistricting.**
 
 | Judgment | Confidence | Basis |
 |----------|-----------|-------|
-| Republicans hold the Senate | **Moderate-High** | Map needs D+4; live recruits make it closer than before but still uphill for D |
-| Democrats flip the House | **Moderate-High** | Live D+6-7 & −20 approval vs. ~10-seat GOP redistricting cushion |
+| Republicans hold the Senate | **Lean (low conf.)** | Map needs D+4, but NC/OH/AK recruits + retirements made it a near coin-flip; markets ~53-55% R |
+| Democrats flip the House | **High** | D+6-7 & −20 approval; Sabato model shows redistricting trims only ~5 seats; markets ~73% D |
 | Specific seat counts / margins | **Low-Moderate** | Ranges only; redistricting + close races unresolved |
 
 ## 5. Adequacy verdict

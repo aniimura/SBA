@@ -52,10 +52,16 @@ current reading is **severely negative**:
   - Silver Bulletin: **D+6.6** (described as the **bluest of the entire cycle**).
   - FiftyPlusOne (May 27): **D+6** (48.9% – 42.6%).
   - US Polling Data: **D+7** (48.1% – 41.1%).
-- A sustained **D+6-7** lead is solidly in **House-flipping territory** and, in a
-  normal seat-translation environment, consistent with a **mid-double-digit**
-  Democratic House gain — before accounting for 2026's redistricting offset
-  (file 03).
+- A sustained **D+6-7** lead is solidly in **House-flipping territory**. Seat-
+  translation estimates reported in May 2026 put a **D+6 environment at roughly a
+  +15 to +30 Democratic seat gain (midpoint ~+18-23)** — the widest D generic
+  lead since August 2018 (which preceded a 41-seat D gain).
+- **Sabato's Crystal Ball redistricting model [LIVE]:** even adding the
+  equivalent of **+10 Republican districts** via mid-cycle redistricting only
+  **trims expected Democratic gains by ~5 seats** — so at D+6, Democrats would
+  *still* be expected to gain **~23 seats**. The model's conclusion: redistricting
+  has a **minimal** effect on the *outcome*; Democrats are favored to win the
+  House unless their generic lead **evaporates to roughly tied.**
 
 ## 5. Turnout and the midterm electorate
 

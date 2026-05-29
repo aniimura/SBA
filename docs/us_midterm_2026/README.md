@@ -14,6 +14,7 @@ specials and governorships).
 | `04_fundamentals_base_rates.md` | Presidential approval, economy, historical midterm base rates |
 | `05_situational_adequacy_assessment.md` | Evidence quality / analytic-confidence check before forecasting |
 | `06_forecast.md` | The forecast: scenarios, probabilities, seat ranges, confidence |
+| `07_sources.md` | Source list (links) for the `[LIVE]` 2026-05-29 data |
 
 ## Methodology in brief
 

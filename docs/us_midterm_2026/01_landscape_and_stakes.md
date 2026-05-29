@@ -56,6 +56,10 @@ The asymmetry is the whole story of the cycle:
 > divided government by flipping the House, while the Senate map blunts that
 > wave and lets Republicans hold (or even extend) the upper chamber?*
 
-The rest of the dossier tests that hypothesis seat-by-seat (files 02-03) and
-against fundamentals (file 04), then gates it on evidence quality (file 05)
-before committing to a forecast (file 06).
+As of late May 2026 the live data (files 02-04) answers the **House** half
+clearly — a flip is favored — and leaves the **Senate** half genuinely
+contested: the +4 firewall has been partly breached (NC open via Tillis's
+retirement; Brown in OH, Peltola in AK), so a Democratic sweep is no longer a
+remote scenario. The rest of the dossier tests this seat-by-seat (files 02-03)
+and against fundamentals (file 04), gates it on evidence quality (file 05), and
+commits to a forecast (file 06). Source links are in file 07.

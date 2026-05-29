@@ -1,7 +1,9 @@
 # 04 — Fundamentals and Historical Base Rates
 
-*As of analyst knowledge (Jan 2026). Base rates are historical and do not
-expire; current-condition figures must be verified live.*
+*Live data collected via web search on **2026-05-29** is incorporated below and
+marked **[LIVE]**. Historical base rates are timeless. (Full-page fetches to some
+sites — Wikipedia, FiveThirtyEight — were blocked (HTTP 403) in this
+environment, but aggregated polling/forecast figures were obtained via search.)*
 
 ## 1. The midterm penalty (the strongest base rate in U.S. politics)
 
@@ -15,61 +17,70 @@ The president's party **almost always loses U.S. House seats** at the midterm.
 - **Senate** midterm losses are smaller and noisier (the map matters more than
   the national mood — see 2018, when Democrats won the House popular vote
   decisively yet *lost* Senate seats on a bad map). **2026 is a "bad-map"
-  Senate year for the out-party.**
+  Senate year for the out-party** — though see §2-3, the 2026 mood is unusually
+  strong for Democrats.
 
-**Implication:** Absent a 1998/2002-style shock favoring Republicans, the base
-rate points to **Democratic House gains**; the unusually small flip threshold
-makes even a *below-average* loss for the GOP enough to change control.
+## 2. Presidential approval — **[LIVE, 2026-05-29]**
 
-## 2. Presidential approval (the best leading indicator of seat swing)
+Approval correlates strongly with the president's-party seat change, and the
+current reading is **severely negative**:
 
-Approval correlates strongly with the president's-party seat change.
+- **Trump approval ≈ 38.7% approve / 58.3% disapprove → net ≈ −19.6.**
+  (Cross-checks: RealClearPolitics ≈ 39.8% approve / 58.3% disapprove, net
+  ≈ −18.5; Silver Bulletin net ≈ −19.1.)
+- This is reported as the **lowest approval of either Trump term**, with **May
+  2026 the sharpest single-month decline** of the presidency.
+- A net approval near **−20 / sub-40 approve** sits in the historical zone
+  associated with **double-digit, often catastrophic, House losses** for the
+  president's party. This is a far worse reading than the analyst's January-2026
+  prior (which expected low-to-mid 40s) — the environment deteriorated sharply
+  for Republicans in spring 2026.
 
-- **As of early 2026:** Trump's approval was **net negative** — roughly
-  **low-to-mid 40s approve vs. low-to-mid 50s disapprove** — pressured by 2025
-  economic friction (tariffs and prices the most salient). A net-negative,
-  sub-45 approval is in the zone historically associated with **double-digit**
-  House losses for the president's party.
-- **Verify live:** approval is the figure most likely to have moved between Jan
-  and May 2026. A recovery toward the high-40s would shrink expected losses; a
-  slide into the 30s would deepen them. Check RCP / 538 / Gallup / Silver
-  Bulletin averages at forecast time.
+## 3. The economy — **[LIVE, 2026-05-29]**
 
-## 3. The economy
+- **Stagflation fear is the driver of the May collapse:** **Q1 2026 GDP ≈ +2.0%**
+  but **PCE inflation ≈ 4.5%**, attributed to **accelerating tariff-driven
+  inflation**. Growth is positive but prices are hot — the worst political mix
+  (rising cost of living without a boom to offset it).
+- **Mechanism:** inflation salience → falling approval → out-party generic-ballot
+  lead → seat swing. In May 2026 every link in that chain runs **against
+  Republicans.**
 
-- **2025 backdrop:** tariff-driven price pressure and cost-of-living salience
-  were the dominant economic story; growth/labor signals were mixed. Pocketbook
-  dissatisfaction is a classic accelerant of midterm backlash against the
-  incumbent party.
-- **Mechanism:** real-income perception and inflation salience feed approval,
-  which feeds the generic ballot, which feeds seat swing. The chain in early
-  2026 ran in the **out-party's (Democrats') favor.**
+## 4. The generic congressional ballot — **[LIVE, 2026-05-29]**
 
-## 4. Turnout and the midterm electorate
+- **Democrats lead the generic ballot by roughly D+6 to D+7:**
+  - Silver Bulletin: **D+6.6** (described as the **bluest of the entire cycle**).
+  - FiftyPlusOne (May 27): **D+6** (48.9% – 42.6%).
+  - US Polling Data: **D+7** (48.1% – 41.1%).
+- A sustained **D+6-7** lead is solidly in **House-flipping territory** and, in a
+  normal seat-translation environment, consistent with a **mid-double-digit**
+  Democratic House gain — before accounting for 2026's redistricting offset
+  (file 03).
 
-- Midterm electorates are **older, whiter, higher-propensity** than presidential
-  ones, and the **out-party is typically more motivated** ("thermostatic"
-  backlash). In 2026 that enthusiasm edge sits with **Democrats**, as it did in
-  2018.
-- Counter-pressure: the GOP's post-2024 gains among **lower-propensity and
-  working-class/younger-male voters** may not turn out at midterm rates,
-  *helping* Democrats' relative position — but this also makes both parties'
-  coalitions harder to poll, widening uncertainty.
+## 5. Turnout and the midterm electorate
 
-## 5. Special elections and off-cycle signal
+- Midterm electorates are older, higher-propensity, and the **out-party is more
+  motivated** (thermostatic backlash). In 2026 that enthusiasm edge sits with
+  **Democrats**, reinforced by the approval/economy readings above.
+- The GOP's 2024 gains among low-propensity / younger-male voters may **not turn
+  out** at midterm rates — a structural drag on Republicans in 2026 specifically.
 
-- **Read the tape:** 2025 off-year and special-election results (VA/NJ
-  governors' races, scattered legislative specials) are leading indicators. In
-  the early-2026 picture they were **consistent with a Democratic-leaning
-  environment** (out-party overperformance in specials is a recurring
-  pre-wave tell). Verify the latest specials at forecast time.
+## 6. Special / off-cycle signal
 
-## 6. Synthesis of fundamentals
+- Out-party overperformance in 2025 specials and the strong generic ballot are
+  classic **pre-wave tells**. The recruitment of heavyweight Democratic
+  challengers into Republican-held Senate seats (Sherrod Brown in the **Ohio**
+  special; Mary Peltola in **Alaska** — file 02) is itself a leading indicator
+  that operatives read the environment as strongly pro-Democratic.
 
-Every major fundamental — midterm penalty, net-negative approval, cost-of-living
-discontent, out-party enthusiasm, special-election overperformance — points the
-**same direction: a pro-Democratic national environment.** The two things that
-*restrain* the translation into seats are (1) the **Senate map** and (2)
-**2025-26 Republican redistricting** in the House. The forecast (file 06) is
-essentially: *strong pro-D environment, filtered through structural Republican
-firewalls.*
+## 7. Synthesis of fundamentals
+
+As of **2026-05-29**, every major fundamental — the midterm penalty, a **−20 net
+approval**, **stagflation-driven** cost-of-living anger, out-party enthusiasm,
+and elite candidate recruitment — points the **same direction and with unusual
+intensity: a strongly pro-Democratic national environment.** The only forces
+*restraining* the translation into seats are **structural**: (1) the **Senate
+map** (Democrats need +4 on mostly red turf) and (2) **2025-26 Republican
+redistricting** in the House (a net ~10-seat GOP cushion — file 03). The
+forecast (file 06) is: *a strong-to-potentially-wave pro-D environment, partly
+absorbed by Republican structural firewalls.*

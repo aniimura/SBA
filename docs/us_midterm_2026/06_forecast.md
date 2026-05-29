@@ -1,84 +1,100 @@
 # 06 — Forecast: 2026 U.S. Midterm Elections
 
-*Prepared 2026-05-29. Built bottom-up (files 02-03), validated top-down
-(file 04), and gated on evidence quality (file 05). Read the README data-source
-caveat first: this rests on knowledge through Jan 2026 + historical base rates,
-not live May-2026 data.*
+*Prepared **2026-05-29**, incorporating live web-search data (tagged `[LIVE]` in
+files 02-04). Built bottom-up (files 02-03), validated top-down (file 04), gated
+on evidence quality (file 05). Read the README data-source note first.*
 
 ## Headline call
 
-> **Most likely outcome: divided government.** Democrats **flip the U.S. House**
-> (narrowly), while Republicans **hold the U.S. Senate** (roughly steady, plus
-> or minus a couple of seats). Confidence: **High** on the Senate, **Moderate**
-> on the House.
+> **Most likely outcome (≈55%): divided government** — Democrats **flip the U.S.
+> House** (decisive but modest), Republicans **hold the U.S. Senate** (narrow).
+> But the live environment is strong enough that a **Democratic sweep of both
+> chambers is a real secondary scenario (≈25%)**. Confidence: **Moderate-High**
+> on the House flip; **Moderate-High** that Republicans hold (but no longer
+> heavily favored to) the Senate.
 
 ## Probability estimates
 
 | Outcome | Probability | Confidence |
 |---------|------------:|------------|
-| Republicans hold the Senate | **~88%** | High |
-| Republicans *gain* net Senate seats | ~40% | Medium |
-| Democrats reach 51 (Senate control) | **~12%** | High (that it's unlikely) |
-| Democrats flip the House | **~65%** | Moderate |
-| Republicans hold the House | ~35% | Moderate |
-| **Combined base case: D House + R Senate** | **~55-60%** | Moderate |
+| **Democrats flip the House** | **~80%** | Moderate-High |
+| Republicans hold the House | ~20% | Moderate-High |
+| **Republicans hold the Senate** | **~72%** | Moderate-High |
+| Democrats reach 51 (Senate control) | **~28%** | Moderate |
 
-*(Probabilities are analytic judgments, not model output; they encode the
-four-month data gap and unsettled maps as widened uncertainty.)*
+**Joint outcomes (these are the bottom line):**
+
+| Scenario | Prob. |
+|----------|------:|
+| **D House + R Senate (divided gov't — base case)** | **~55%** |
+| **D House + D Senate (Democratic sweep)** | **~25%** |
+| R House + R Senate (GOP holds both) | ~18% |
+| R House + D Senate | ~2% |
+
+*(Analytic judgments, not model output; House and Senate are positively
+correlated through the shared national environment, which is why a D sweep is a
+non-trivial 25%.)*
 
 ## Seat ranges (not point estimates)
 
-- **Senate:** likely landing **between 51 R – 49 D and 54 R – 46 D**, centered
-  near the **status quo (~52-53 R)**. Democratic control (≥51 D) is a tail.
-- **House:** a **narrow** result either way — most mass between **roughly
-  D+218-225** (slim D majority, base case) and a **held-but-shrunken R
-  majority**. A large wave in either direction is unlikely given the redistricting
-  cross-currents.
+- **House:** a **clear-but-not-blowout Democratic majority** in the base case —
+  most mass around **~D 220-228**, with the ~10-seat GOP redistricting cushion
+  (file 03) capping the upside. GOP-holds-narrowly is the ~20% tail.
+- **Senate:** centered near **51-53 R**, i.e. Republicans holding with a small
+  margin. The Democratic-control tail (≥51 D) requires winning **Maine + Ohio +
+  Alaska + North Carolina while holding Georgia/Michigan/NH/Minnesota** — a real
+  but needle-threading ~28% path opened up by the Brown and Peltola
+  recruitments.
 
 ## Why this is the call (one-paragraph logic)
 
-Every fundamental — the near-ironclad midterm penalty against the president's
-party, Trump's net-negative approval, cost-of-living discontent, out-party
-enthusiasm, and Democratic special-election overperformance — points to a
-**pro-Democratic national environment** (file 04). That environment meets two
-**structural Republican firewalls**: (1) a **Senate map** where Democrats must
-net +4 almost entirely on red-state turf, which the wave cannot reach (file 02);
-and (2) **2025-26 Republican mid-decade redistricting** in the House, which caps
-Democratic gains and turns a would-be wave into a **narrow** flip (file 03). The
-result is the classic shape of a backlash midterm constrained by structure:
-**House changes hands, Senate does not.**
+The May-2026 fundamentals are **strongly pro-Democratic and intensifying**:
+Trump approval has collapsed to **≈ −20 net (lowest of either term)** amid
+**stagflation fears** (Q1 GDP +2.0% but PCE +4.5%), and the generic ballot sits
+at **D+6-7 (bluest of the cycle)** — on top of the near-ironclad midterm penalty
+against the president's party (file 04). That environment meets two **Republican
+structural firewalls**: (1) the **Senate map**, where Democrats must net +4
+mostly on red turf (file 02); and (2) **2025-26 GOP redistricting**, a ~10-seat
+House cushion (file 03). The firewalls are strong enough to make a **House flip
+"decisive but modest"** rather than a wave, and to keep **Senate control narrowly
+favored to stay Republican** — but the environment is now strong enough, and the
+Senate field deep enough (Brown, Peltola), that **both firewalls could be
+overtopped**, which is the 25% Democratic-sweep scenario.
 
 ## Races to watch (the forecast's hinges)
 
-- **Senate control insurance (must hold for R):** Georgia (Ossoff), Michigan
-  (open), North Carolina (Tillis), Maine (Collins). If Democrats sweep Maine +
-  NC *and* hold all their own, the +4 path narrowly reopens — the low-probability
-  H4.
-- **House tipping-point seats:** suburban R-held, Harris-won districts in CA,
-  NY, NJ, PA, AZ, VA — netted against any new R-leaning seats from Texas/Ohio
-  redraws and California's counter-map.
-- **Governorships** (consequential downstream): CA, TX, FL, NY, GA, MI, PA, WI,
-  AZ — they shape the 2030 redistricting cycle more than 2026 control.
+- **Senate tipping points:** **Maine (Collins), Ohio special (Husted vs.
+  Brown), Alaska (Sullivan vs. Peltola), North Carolina (Tillis)** for D
+  pickups; **Georgia (Ossoff)** and **Michigan (open)** as Democratic must-
+  holds. The Senate's fate runs through these six.
+- **House tipping points:** suburban R-held, Harris-won seats in **CA, NY, NJ,
+  PA, AZ, VA** — netted against new R-leaning seats from the Texas/Ohio redraws
+  and California's counter-map.
+- **Texas (Cornyn vs. Paxton primary)** and the **36 governorships** (CA, TX, FL,
+  NY, GA, MI, PA, WI, AZ) — the latter shaping the 2030 redistricting cycle.
 
 ## What would change this forecast (decision triggers)
 
-Re-run the call if, by autumn 2026, any of these is true:
-1. **Approval recovers** to the high-40s → House flip downgrades toward toss-up
-   (H2 rises).
-2. **A president-favoring shock** occurs (rally event) → base rate may break, as
-   in 2002.
-3. **Redistricting nets Republicans more than expected** and survives the courts
-   while California's counter fails → House may not flip.
-4. **Approval craters into the 30s** and GOP retirements cascade → larger D
-   House gains; modest D Senate gains (still likely short of control) → H3.
-5. **A toss-up Republican Senate seat collapses** (e.g., a Texas primary
-   fiasco) → narrows the R Senate margin without necessarily flipping control.
+Re-run the call if, by autumn 2026:
+1. **Approval recovers** toward the mid-40s → House flip downgrades toward toss-
+   up; Senate hold firms up for R.
+2. **A president-favoring shock** (rally event) → the base rate could break (cf.
+   2002).
+3. **Redistricting cushion proves larger and is upheld** while CA's counter
+   fails → House may not flip (raises the ~20% R-hold tail).
+4. **Courts strike GOP maps** / approval stays sub-40 → House gain widens and the
+   **Democratic-sweep (25%) scenario rises** toward the base case.
+5. **A toss-up GOP Senate seat collapses** (e.g., Texas primary fiasco; a
+   Brown/Peltola surge) → Democratic Senate control moves from tail toward coin-
+   flip.
 
 ## Bottom line (plain language)
 
-Expect a **split decision**: a **Democratic House**, a **Republican Senate**,
-and therefore **gridlocked divided government** for the back half of Trump's
-term — the most historically typical result for a first midterm under a
-trifecta with an unpopular president, with the Senate map doing exactly what
-2026's structure predicts: protecting the majority party. Hold the House call
-loosely (it is the live uncertainty); hold the Senate call firmly.
+Expect a **split decision** as the single most likely result: a **Democratic
+House**, a **Republican Senate**, and therefore **gridlocked divided government**
+for the back half of Trump's term. This is the textbook outcome for a first
+midterm under a trifecta with a deeply unpopular president — *except* that the
+2026 environment is bad enough for Republicans, and the Democratic Senate field
+deep enough, that a **full Democratic sweep is a live one-in-four possibility.**
+Hold the House-flip call firmly; hold the Senate call as "Republicans favored,
+but genuinely contested."
